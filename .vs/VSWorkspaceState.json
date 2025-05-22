@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\book-app",
+    "\\book-app\\src",
+    "\\book-app\\src\\app",
+    "\\book-app\\src\\app\\book",
+    "\\BookApi\\Controllers",
+    "\\BookApi\\Models",
+    "\\BookApi\\Services"
+  ],
+  "SelectedNode": "\\BookApi",
+  "PreviewInSolutionExplorer": false
+}

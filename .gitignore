@@ -1,0 +1,15 @@
+# .NET Backend
+BookApi/bin/
+BookApi/obj/
+BookApi/.vs/
+
+# Angular Frontend
+BookApp/node_modules/
+BookApp/dist/
+BookApp/.angular/
+
+# General
+.env
+*.log
+.vscode/
+
