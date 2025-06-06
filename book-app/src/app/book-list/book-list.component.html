@@ -1,40 +1,42 @@
 <div class="book-container">
-  <h2 class="section-title">Book Form</h2>
+  <h2 class="section-title">Add / Edit Book</h2>
 
   <form class="book-form" (ngSubmit)="onSubmit()">
     <div class="form-group">
       <label>Title</label>
       <input [(ngModel)]="book.title" name="title" required />
     </div>
-
     <div class="form-group">
       <label>Author</label>
       <input [(ngModel)]="book.author" name="author" required />
     </div>
-
     <div class="form-group">
       <label>ISBN</label>
       <input [(ngModel)]="book.isbn" name="isbn" required />
     </div>
-
     <div class="form-group">
       <label>Publication Date</label>
       <input type="date" [(ngModel)]="book.publicationDate" name="publicationDate" required />
     </div>
-
     <button class="submit-btn" type="submit">
       {{ book.id === 0 ? 'Add Book' : 'Update Book' }}
     </button>
   </form>
 
-  <div *ngIf="books.length === 0" class="empty-list">No books available.</div>
+  <h2 class="section-title">Book List</h2>
+
+  <div *ngIf="books.length === 0" class="empty-list">
+    No books available. Add your first book!
+  </div>
 
   <ul class="book-list">
     <li *ngFor="let b of books" class="book-item">
       <div class="book-info">
         <h3 class="book-title">{{ b.title }}</h3>
-        <p class="book-author">{{ b.author }}</p>
-        <p class="book-meta">{{ b.isbn }} | {{ b.publicationDate }}</p>
+        <p class="book-author">by {{ b.author }}</p>
+        <p class="book-meta">
+          ISBN: {{ b.isbn }} | Published: {{ b.publicationDate }}
+        </p>
       </div>
       <div class="book-actions">
         <button class="edit-btn" (click)="editBook(b)">Edit</button>

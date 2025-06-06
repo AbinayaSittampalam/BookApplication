@@ -1,0 +1,43 @@
+<div class="dashboard-widgets">
+
+  <!-- Widget 1: Latest 5 Books Table -->
+  <div class="widget widget-table">
+    <h2>Latest 5 Books</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Id</th>
+          <th>Title</th>
+          <th>Author</th>
+          <th>ISBN</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let book of latestBooks">
+          <td>{{ book.id }}</td>
+          <td>{{ book.title }}</td>
+          <td>{{ book.author }}</td>
+          <td>{{ book.isbn }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Widget 2: Oldest 10 Books List -->
+  <div class="widget widget-list">
+    <h2>Oldest 10 Books</h2>
+    <ul>
+      <li *ngFor="let book of oldestBooks">
+        <strong>{{ book.id }}</strong> – {{ book.title }}
+        ({{ book.isbn }}) – {{ book.publicationDate | date:'yyyy-MM-dd' }}
+      </li>
+    </ul>
+  </div>
+
+  <!-- Widget 3: Donut Chart (Books by Author) -->
+  <div class="widget widget-chart">
+    <h2>Books by Author</h2>
+    <canvas id="booksByAuthorChart"></canvas>
+  </div>
+
+</div>

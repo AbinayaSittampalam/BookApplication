@@ -3,60 +3,116 @@
   "WorkspaceRootPath": "C:\\Users\\Mithu\\Desktop\\Books List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\BookApi\\Services\\BookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookApi\\Services\\BookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\BookApi\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookApi\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\BookApi\\Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookApi\\Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book\\book.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book\\book.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\Dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\Dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\Dashboard\\dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\Dashboard\\dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book\\book.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\Dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\Dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book-list\\book-list.component.spec.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book-list\\book-list.component.spec.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book-list\\book-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book-list\\book-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book-list\\book-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book-list\\book-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book-list\\book-list.component.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book-list\\book-list.component.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\author-group.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\author-group.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book\\book.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book\\book.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book\\book.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:book-app\\src\\app\\book\\book.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\BookApi\\Services\\BookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookApi\\Services\\BookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mithu\\Desktop\\Books List\\BookApi\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookApi\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,90 +122,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "book.service.ts",
-              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book.service.ts",
-              "RelativeDocumentMoniker": "book-app\\src\\app\\book.service.ts",
-              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book.service.ts",
-              "RelativeToolTip": "book-app\\src\\app\\book.service.ts",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-05-22T10:09:25.17Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\BookApi\\Services\\BookService.cs",
-              "RelativeDocumentMoniker": "BookApi\\Services\\BookService.cs",
-              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\BookApi\\Services\\BookService.cs",
-              "RelativeToolTip": "BookApi\\Services\\BookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T17:27:44.607Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\BookApi\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "BookApi\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\BookApi\\Models\\Book.cs",
-              "RelativeToolTip": "BookApi\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T17:27:36.571Z",
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\styles.css",
+              "RelativeDocumentMoniker": "book-app\\src\\styles.css",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\styles.css",
+              "RelativeToolTip": "book-app\\src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-06T10:28:32.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "dashboard.component.ts",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\Dashboard\\dashboard.component.ts",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\Dashboard\\dashboard.component.ts",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\Dashboard\\dashboard.component.ts",
+              "RelativeToolTip": "book-app\\src\\app\\Dashboard\\dashboard.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-06T09:33:11.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dashboard.component.css",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\Dashboard\\dashboard.component.css",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\Dashboard\\dashboard.component.css",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\Dashboard\\dashboard.component.css",
+              "RelativeToolTip": "book-app\\src\\app\\Dashboard\\dashboard.component.css",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-06T09:35:12.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\app.routes.ts",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "book-app\\src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-06T09:50:01.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.ts",
+              "RelativeToolTip": "book-app\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-22T13:25:34.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "book.service.ts",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book.service.ts",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\book.service.ts",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book.service.ts",
+              "RelativeToolTip": "book-app\\src\\app\\book.service.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-22T10:09:25.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\BookApi\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "BookApi\\Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\BookApi\\Controllers\\BooksController.cs",
               "RelativeToolTip": "BookApi\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T17:27:29.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "book.component.css",
-              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.css",
-              "RelativeDocumentMoniker": "book-app\\src\\app\\book\\book.component.css",
-              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.css",
-              "RelativeToolTip": "book-app\\src\\app\\book\\book.component.css",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAiwKMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-22T17:17:53.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\index.html",
-              "RelativeDocumentMoniker": "book-app\\src\\index.html",
-              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\index.html",
-              "RelativeToolTip": "book-app\\src\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "dashboard.component.html",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\Dashboard\\dashboard.component.html",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\Dashboard\\dashboard.component.html",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\Dashboard\\dashboard.component.html",
+              "RelativeToolTip": "book-app\\src\\app\\Dashboard\\dashboard.component.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-22T14:05:48.918Z",
+              "WhenOpened": "2025-06-06T09:34:20.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "main.ts",
               "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\main.ts",
               "RelativeDocumentMoniker": "book-app\\src\\main.ts",
@@ -161,102 +250,250 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "app.component.ts",
-              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.ts",
-              "RelativeDocumentMoniker": "book-app\\src\\app\\app.component.ts",
-              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.ts",
-              "RelativeToolTip": "book-app\\src\\app\\app.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "book-app\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-05-22T13:25:34.811Z",
+              "WhenOpened": "2025-06-06T09:44:49.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "app.component.html",
-              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.html",
-              "RelativeDocumentMoniker": "book-app\\src\\app\\app.component.html",
-              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.html",
-              "RelativeToolTip": "book-app\\src\\app\\app.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-22T10:15:46.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "book.component.ts",
-              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.ts",
-              "RelativeDocumentMoniker": "book-app\\src\\app\\book\\book.component.ts",
-              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.ts",
-              "RelativeToolTip": "book-app\\src\\app\\book\\book.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-05-22T10:15:05.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "book.component.html",
-              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.html",
-              "RelativeDocumentMoniker": "book-app\\src\\app\\book\\book.component.html",
-              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.html",
-              "RelativeToolTip": "book-app\\src\\app\\book\\book.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-22T10:14:40.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "book-app\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.module.ts",
-              "RelativeToolTip": "book-app\\src\\app\\app.module.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-05-22T10:12:59.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "app.config.ts",
               "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.config.ts",
               "RelativeDocumentMoniker": "book-app\\src\\app\\app.config.ts",
               "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.config.ts",
               "RelativeToolTip": "book-app\\src\\app\\app.config.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-05-22T10:01:49.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.css",
+              "RelativeToolTip": "book-app\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-06T10:14:20.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.component.html",
+              "RelativeToolTip": "book-app\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-22T10:15:46.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\index.html",
+              "RelativeDocumentMoniker": "book-app\\src\\index.html",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\index.html",
+              "RelativeToolTip": "book-app\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-22T14:05:48.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "book-list.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book-list\\book-list.component.spec.ts",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\book-list\\book-list.component.spec.ts",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book-list\\book-list.component.spec.ts",
+              "RelativeToolTip": "book-app\\src\\app\\book-list\\book-list.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-06T10:25:20.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "book-list.component.css",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book-list\\book-list.component.css",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\book-list\\book-list.component.css",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book-list\\book-list.component.css",
+              "RelativeToolTip": "book-app\\src\\app\\book-list\\book-list.component.css",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAowKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-06T10:24:50.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "book-list.component.html",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book-list\\book-list.component.html",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\book-list\\book-list.component.html",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book-list\\book-list.component.html",
+              "RelativeToolTip": "book-app\\src\\app\\book-list\\book-list.component.html",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-06T10:24:23.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "book-list.component.ts",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book-list\\book-list.component.ts",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\book-list\\book-list.component.ts",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book-list\\book-list.component.ts",
+              "RelativeToolTip": "book-app\\src\\app\\book-list\\book-list.component.ts",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-06T10:23:14.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "author-group.model.ts",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\author-group.model.ts",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\author-group.model.ts",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\author-group.model.ts",
+              "RelativeToolTip": "book-app\\src\\app\\author-group.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-06T10:21:05.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "book.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book.service.spec.ts",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\book.service.spec.ts",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book.service.spec.ts",
+              "RelativeToolTip": "book-app\\src\\app\\book.service.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-06T09:43:57.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\app.module.ts",
+              "RelativeToolTip": "book-app\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-22T10:12:59.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "book.model.ts",
               "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book.model.ts",
               "RelativeDocumentMoniker": "book-app\\src\\app\\book.model.ts",
               "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book.model.ts",
               "RelativeToolTip": "book-app\\src\\app\\book.model.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-05-22T09:40:46.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "book.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.spec.ts",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\book\\book.component.spec.ts",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.spec.ts",
+              "RelativeToolTip": "book-app\\src\\app\\book\\book.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-06T09:51:08.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "book.component.ts",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.ts",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\book\\book.component.ts",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.ts",
+              "RelativeToolTip": "book-app\\src\\app\\book\\book.component.ts",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-22T10:15:05.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "book.component.html",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.html",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\book\\book.component.html",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.html",
+              "RelativeToolTip": "book-app\\src\\app\\book\\book.component.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-22T10:14:40.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "book.component.css",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.css",
+              "RelativeDocumentMoniker": "book-app\\src\\app\\book\\book.component.css",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\book-app\\src\\app\\book\\book.component.css",
+              "RelativeToolTip": "book-app\\src\\app\\book\\book.component.css",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAowKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-22T17:17:53.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\BookApi\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookApi\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\BookApi\\Services\\BookService.cs",
+              "RelativeToolTip": "BookApi\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:27:44.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Mithu\\Desktop\\Books List\\BookApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Mithu\\Desktop\\Books List\\BookApi\\Models\\Book.cs",
+              "RelativeToolTip": "BookApi\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:27:36.571Z",
               "EditorCaption": ""
             }
           ]

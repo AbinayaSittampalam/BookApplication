@@ -4,11 +4,13 @@
     "\\book-app",
     "\\book-app\\src",
     "\\book-app\\src\\app",
-    "\\book-app\\src\\app\\book",
+    "\\book-app\\src\\app\\book-list",
+    "\\book-app\\src\\app\\Dashboard",
+    "\\BookApi",
     "\\BookApi\\Controllers",
     "\\BookApi\\Models",
     "\\BookApi\\Services"
   ],
-  "SelectedNode": "\\BookApi",
+  "SelectedNode": "\\BookApi\\Controllers\\BooksController.cs",
   "PreviewInSolutionExplorer": false
 }

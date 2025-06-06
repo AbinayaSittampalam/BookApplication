@@ -1,13 +1,13 @@
 import { Component, OnInit } from '@angular/core';
 import { BookService } from '../book.service';
 import { Book } from '../book.model';
-import { CommonModule } from '@angular/common';  
-import { FormsModule } from '@angular/forms';   
+import { CommonModule } from '@angular/common';
+import { FormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-book',
   standalone: true,
-  imports: [CommonModule, FormsModule],  
+  imports: [CommonModule, FormsModule],
   templateUrl: './book.component.html',
   styleUrls: ['./book.component.css']
 })
